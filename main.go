@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/dodosuke/goauth/internal/utils"
+	"github.com/dodosuke/authz-demo/internal/utils"
 	"github.com/rs/xid"
 )
 
